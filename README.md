@@ -16,3 +16,4 @@
   2. Set the `background-color` of the `.block` to change on a timer every 1000 milliseconds
       1. Use `setInterval()` to create a timed interval
       2. Setup a `keyUp` event listener to start/stop the timed interval
+  3. Instead of adding `div.block`, what about adding an `img` that has an `src` that points to an image (maybe a png of your face, for example?) 
